@@ -31,7 +31,7 @@ Once the containers are up and running, you can verify the database setup by con
 
 The following services are included in the Docker Compose configuration:
 
-- PostgreSQL: Database server for storing application data.
+- MariaDB: Database server for storing application data.
 
 ## 🧰 Customization
 
